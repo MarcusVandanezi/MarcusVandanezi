@@ -25,11 +25,11 @@
 <a ><img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
 
 
-#### 🪧 <a> Me contate! Contact me!<a > <br>
+## <a> Minhas redes sociais:<a > <br>
 <a href="https://www.linkedin.com/in/marcusviniciusvandanezi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/marcusviniciusvandanezi/" /></a>
 <a href="mailto:marcusvandanezi@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-👇 GitHub Stats:
+## GitHub Stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=MarcusVandanezi&show_icons=true&hide=contribs,prs&theme=merko)](https://github.com/MarcusVandanezi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVandanezi&layout=compact&theme=merko)](https://github.com/MarcusVandanezi/github-readme-stats)
