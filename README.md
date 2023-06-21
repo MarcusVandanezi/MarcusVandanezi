@@ -1,12 +1,12 @@
-Oi, sou Marcus Vinícius Vandanezi, tenho 20 anos e atualmente estudo para me formar como desenvolvedor web full stack. 😁
+### Oi, sou Marcus Vinícius Vandanezi, tenho 20 anos e atualmente estudo para me formar como desenvolvedor web full stack. 
 
-Hi, I'm Marcus Vinícius Vandanezi, I'm 20 years old and I'm currently studying to become a full stack web developer. 😁
 
-🔸Operating System <br>
+## Linguagens e ferramentas:
+🔸Sistema operacional <br>
 <a ><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 <a ><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 
-🔸Languages <br>
+🔸Linguagens <br>
 <a ><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a ><img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
@@ -25,7 +25,7 @@ Hi, I'm Marcus Vinícius Vandanezi, I'm 20 years old and I'm currently studying 
 <a ><img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
 
 
-🪧 Me contate! Contact me! <br>
+#### 🪧 <a> Me contate! Contact me!<a > <br>
 <a href="https://www.linkedin.com/in/marcusviniciusvandanezi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/marcusviniciusvandanezi/" /></a>
 <a href="mailto:marcusvandanezi@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
