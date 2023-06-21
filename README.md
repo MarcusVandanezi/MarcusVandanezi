@@ -11,9 +11,6 @@ Hi, I'm Marcus Vinícius Vandanezi, I'm 20 years old and I'm currently studying 
 <a ><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a ><img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /></a>
 
-🔸Linter <br>
-<a ><img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
-
 🔸Frameworks e Librarys <br>
 <a ><img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a ><img alt="reactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
@@ -23,6 +20,9 @@ Hi, I'm Marcus Vinícius Vandanezi, I'm 20 years old and I'm currently studying 
 
 🔸Mobile Frameworks<br>
 <a ><img alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+
+🔸Linter <br>
+<a ><img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
 
 
 🪧 Me contate! Contact me! <br>
