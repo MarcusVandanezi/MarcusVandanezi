@@ -24,6 +24,9 @@
 🔸Linter <br>
 <a ><img alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
 
+🔸Banco de dados <br>
+<a ><img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+
 
 ## <a> Minhas redes sociais:<a > <br>
 <a href="https://www.linkedin.com/in/marcusviniciusvandanezi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/marcusviniciusvandanezi/" /></a>
