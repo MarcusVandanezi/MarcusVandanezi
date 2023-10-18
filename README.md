@@ -1,4 +1,4 @@
-### Oi, sou Marcus Vinícius Vandanezi, tenho 20 anos e atualmente atuo como desenvolvedor web full stack. 
+### Olá, eu sou Marcus Vinícius Vandanezi, um desenvolvedor web full stack apaixonado por criar experiências digitais incríveis. Com 20 anos de idade, estou comprometido em transformar ideias em código e construir o futuro da web.
 
 
 ## Linguagens e ferramentas:
